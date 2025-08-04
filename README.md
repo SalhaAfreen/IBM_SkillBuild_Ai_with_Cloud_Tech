@@ -80,7 +80,3 @@ Career counseling feature based on student interests and academic performance
 
 Deployment across messaging platforms (e.g., WhatsApp, Telegram)
 
-
-
-
-Let me know if you'd like this as a downloadable .md file or edited with your specific project title, college name, or screenshots.# IBM_SkillBuild_Ai_with_Cloud_Tech
